@@ -1,16 +1,20 @@
 buildscript {
     repositories {
-        mavenCentral()
+        maven {
+          url "https://plugins.gradle.org/m2/"
+        }
     }
     dependencies {
         classpath(
-                'org.junit.platform:junit-platform-gradle-plugin:1.0.2'
+                'org.junit.platform:junit-platform-gradle-plugin:1.0.2',
+                'gradle.plugin.com.github.spotbugs:gradlePlugin:1.6.0'
         )
     }
 }
 
 apply plugin: 'java'
 apply plugin: 'org.junit.platform.gradle.plugin'
+apply plugin: 'com.github.spotbugs'
 
 repositories {
     mavenCentral()
