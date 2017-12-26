@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/johnboyes/bank-kata-java.svg?style=svg)](https://circleci.com/gh/johnboyes/bank-kata-java)
+[![Dependency Status](https://www.versioneye.com/user/projects/5a42da760fb24f5cff23b32d/badge.svg?style=svg)](https://www.versioneye.com/user/projects/5a42da760fb24f5cff23b32d)
 
 # Bank Kata - Java
 
