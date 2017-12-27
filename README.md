@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/790280538de14463b9ed7afe69018c95)](https://www.codacy.com/app/johnboyes/bank-kata-java?utm_source=github.com&utm_medium=referral&utm_content=johnboyes/bank-kata-java&utm_campaign=badger)
 [![CircleCI](https://circleci.com/gh/johnboyes/bank-kata-java.svg?style=svg)](https://circleci.com/gh/johnboyes/bank-kata-java)
 [![Codecov](https://img.shields.io/codecov/c/github/johnboyes/bank-kata-java.svg?style=svg)](https://codecov.io/gh/johnboyes/bank-kata-java)
 [![Dependency Status](https://www.versioneye.com/user/projects/5a42da760fb24f5cff23b32d/badge.svg?style=svg)](https://www.versioneye.com/user/projects/5a42da760fb24f5cff23b32d)
