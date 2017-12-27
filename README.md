@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/johnboyes/bank-kata-java.svg?style=svg)](https://circleci.com/gh/johnboyes/bank-kata-java)
+[![Codecov](https://img.shields.io/codecov/c/github/johnboyes/bank-kata-java.svg?style=svg)](https://codecov.io/gh/johnboyes/bank-kata-java)
 [![Dependency Status](https://www.versioneye.com/user/projects/5a42da760fb24f5cff23b32d/badge.svg?style=svg)](https://www.versioneye.com/user/projects/5a42da760fb24f5cff23b32d)
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg?style=svg)](LICENSE)
 
